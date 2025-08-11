@@ -11,12 +11,10 @@ Clonando o projeto:
 
 No DataBricks:
 
-```
-1. Clique na aba Workspace e navegue até a pasta que deseja importar o projeto.
-2. Clique com o botão direito do mouse e selecione a opção Import. Selecione o projeto clonado para ser importado.
-3. Clique na aba Jobs & Pipelines e selecione o projeto a ser executado.
-4. Clique no botão Run para executar o projeto.
-```
+1. Clique na aba `Workspace` e navegue até a pasta que deseja importar o projeto.
+2. Clique com o botão direito do mouse e selecione a opção `Import`. Selecione o projeto clonado para ser importado.
+3. Clique na aba `Jobs & Pipelines` e selecione o projeto a ser executado.
+4. Clique no botão `Run` para executar o projeto.
 
 ####  Instruções de Uso:
 Após executar o projeto, é possível ver as tabelas geradas utilizando a aba Dashboards do DataBricks.
