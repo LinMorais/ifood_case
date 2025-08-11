@@ -5,7 +5,7 @@ Este é o projeto para demonstração de análise e modelagem de dados. Como rec
 #### Instruções de Execução
 Para executar o projeto, primeiro faça o download do database de referência.
 
-Em seguida, faça o git clone deste, para em seguira importar utilizando o DataBricks, pela aba Workspace. Em seguida, vá até a aba de Jobs & Pipelines e clique em Run para executar o projeto.
+Em seguida, faça o git clone deste projeto, para em seguida importar utilizando o DataBricks, pela aba Workspace. Em seguida, faça o upload das tabelas de referência e na aba de Jobs & Pipelines, crie um novo pipeline para executar o projeto.
 
 ###### Clonando o projeto:
 
